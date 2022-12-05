@@ -1,0 +1,11 @@
+D:\Study\DoAn-2022\QuanLyThuVien-Winform\QuanLyThuVien-Winform\DTO\bin\Debug\DTO.dll
+D:\Study\DoAn-2022\QuanLyThuVien-Winform\QuanLyThuVien-Winform\DTO\bin\Debug\DTO.pdb
+D:\Study\DoAn-2022\QuanLyThuVien-Winform\QuanLyThuVien-Winform\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Study\DoAn-2022\QuanLyThuVien-Winform\QuanLyThuVien-Winform\DTO\obj\Debug\DTO.dll
+D:\Study\DoAn-2022\QuanLyThuVien-Winform\QuanLyThuVien-Winform\DTO\obj\Debug\DTO.pdb
+C:\Users\DevBlock-DBL061\Desktop\QuanLyThuVien-Winform\QuanLyThuVien-Winform\DTO\bin\Debug\DTO.dll
+C:\Users\DevBlock-DBL061\Desktop\QuanLyThuVien-Winform\QuanLyThuVien-Winform\DTO\bin\Debug\DTO.pdb
+C:\Users\DevBlock-DBL061\Desktop\QuanLyThuVien-Winform\QuanLyThuVien-Winform\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\DevBlock-DBL061\Desktop\QuanLyThuVien-Winform\QuanLyThuVien-Winform\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\DevBlock-DBL061\Desktop\QuanLyThuVien-Winform\QuanLyThuVien-Winform\DTO\obj\Debug\DTO.dll
+C:\Users\DevBlock-DBL061\Desktop\QuanLyThuVien-Winform\QuanLyThuVien-Winform\DTO\obj\Debug\DTO.pdb
